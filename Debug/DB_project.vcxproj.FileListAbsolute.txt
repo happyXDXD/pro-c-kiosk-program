@@ -1,0 +1,4 @@
+C:\Users\usrf00\Desktop\DB_project\Debug\DB_project.exe
+C:\Users\usrf00\Desktop\프젝복사본\DB_project\DB_project\Debug\DB_project.exe
+C:\Users\QQQ\Desktop\DB_project\Debug\DB_project.exe
+C:\Users\usrf00\Desktop\6조\04-VC디렉토리\실행파일\DB_project\Debug\DB_project.exe

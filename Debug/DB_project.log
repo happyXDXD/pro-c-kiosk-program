@@ -1,0 +1,12 @@
+﻿  kiosk.c
+C:\Users\usrf00\Desktop\6조\04-VC디렉토리\실행파일\DB_project\kiosk.c(276,3): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\usrf00\Desktop\6조\04-VC디렉토리\실행파일\DB_project\kiosk.c(422,17): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\usrf00\Desktop\6조\04-VC디렉토리\실행파일\DB_project\kiosk.c(1197,23): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\usrf00\Desktop\6조\04-VC디렉토리\실행파일\DB_project\kiosk.c(1188,7): warning C4101: 'dynstmt2' :참조되지 않은 지역 변수입니다.
+C:\Users\usrf00\Desktop\6조\04-VC디렉토리\실행파일\DB_project\kiosk.c(1754,23): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\usrf00\Desktop\6조\04-VC디렉토리\실행파일\DB_project\kiosk.c(2252,7): warning C4101: 'v_category' :참조되지 않은 지역 변수입니다.
+C:\Users\usrf00\Desktop\6조\04-VC디렉토리\실행파일\DB_project\kiosk.c(2255,7): warning C4101: 'v_total' :참조되지 않은 지역 변수입니다.
+C:\Users\usrf00\Desktop\6조\04-VC디렉토리\실행파일\DB_project\kiosk.c(2254,7): warning C4101: 'v_brand' :참조되지 않은 지역 변수입니다.
+C:\Users\usrf00\Desktop\6조\04-VC디렉토리\실행파일\DB_project\kiosk.c(2253,7): warning C4101: 'v_price' :참조되지 않은 지역 변수입니다.
+C:\Users\usrf00\Desktop\6조\04-VC디렉토리\실행파일\DB_project\kiosk.c(2251,7): warning C4101: 'v_date' :참조되지 않은 지역 변수입니다.
+  DB_project.vcxproj -> C:\Users\usrf00\Desktop\6조\04-VC디렉토리\실행파일\DB_project\Debug\DB_project.exe
